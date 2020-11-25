@@ -1,0 +1,17 @@
+dj-database-url==0.4.2
+Django==1.11.4
+django-choices==1.6.0
+django-cors-headers==2.1.0
+django-crispy-forms==1.6.1
+django-debug-toolbar==1.8
+django-filter==1.0.4
+django-model-utils==3.0.0
+djangorestframework==3.6.4
+djangorestframework-jwt==1.11.0
+gunicorn==19.7.1
+Markdown==2.6.9
+psycopg2==2.7.3.1
+PyJWT==1.5.3
+pytz==2017.2
+sqlparse==0.2.3
+whitenoise==3.3.0
